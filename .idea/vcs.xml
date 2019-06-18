@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/aliyun-oss-go-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/cloud.google.com/go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/git.apache.org/thrift.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/aliyun/aliyun-oss-go-sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/axgle/mahonia" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/denisenkom/go-mssqldb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/garyburd/redigo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/go-redis/redis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/go-sql-driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/go-xorm/builder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/go-xorm/cmd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/go-xorm/core" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/go-xorm/xorm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/golang/protobuf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/gomodule/redigo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/google/go-genproto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/gorilla/securecookie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/iris-contrib/httpexpect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/jmoiron/sqlx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/json-iterator/go" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/kataras/golog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/kataras/iris" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/kataras/pio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/kataras/rizla" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/lib/pq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/lunny/log" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/mattn/go-sqlite3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/modern-go/concurrent" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/modern-go/reflect2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/tsliwowicz/go-wrk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/github.com/ziutek/mymysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/golang.org/x/build" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/golang.org/x/crypto/crypto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/golang.org/x/net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/golang.org/x/sys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/golang.org/x/text" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/golang.org/x/time" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myUtilsProject/src/google.golang.org/grpc" vcs="Git" />
+  </component>
+</project>
