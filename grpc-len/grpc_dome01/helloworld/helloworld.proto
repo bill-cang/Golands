@@ -1,0 +1,19 @@
+
+syntax = "proto3";
+//包名
+package halloWorld;
+//接口
+service Greeter{
+    //rpc +方法名(请求参数) + returns + (返回结果){}
+    rpc SayHello(HelloRequest) returns (HelloReply){}
+}
+//结构体--请求参数
+message HelloRequest{
+    //属性对应的顺序不能重复
+    string name =1;
+}
+//结构体--返回结果
+message HelloReply{
+    string message =1;
+}
+
