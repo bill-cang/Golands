@@ -28,5 +28,5 @@ func ErJinZhi(ni int) string{
 			}
 		}
 	}
-	return "异常"
+	return ""
 }
