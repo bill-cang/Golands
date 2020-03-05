@@ -29,5 +29,5 @@ func ErJinZhi(ni int) string{
 		}
 	}
 	//这是我的单个文件合并测试
-	return ""
+	return "1234"
 }
