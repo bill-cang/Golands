@@ -16,4 +16,15 @@ func dom2()  {
 	fmt.Println("thIs is dom2")
 	fmt.Println("thIs is dom2")
 	fmt.Println("thIs is dom2")
+
+	fmt.Println("thIs is dom3")
+	fmt.Println("thIs is dom3")
+	fmt.Println("thIs is dom3")
+	fmt.Println("thIs is dom3")
+
+
+	fmt.Println("thIs is dom4")
+	fmt.Println("thIs is dom4")
+	fmt.Println("thIs is dom4")
+	fmt.Println("thIs is dom4")
 }
